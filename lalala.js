@@ -1,0 +1,1 @@
+console.log("我要自杀")
